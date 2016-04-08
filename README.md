@@ -1,1 +1,1 @@
-# google_docs_spreadsheet_formulas
+`=GOOGLEFINANCE("GOOG","price",TODAY()-30,TODAY())`
